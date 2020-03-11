@@ -1,2 +1,2 @@
 # Keyword-Extractor
-it extracts all the keywords( like Java,inheritance etc.) from a pdf file and frequency of all these keywords is stored in csv file.
+A python script for extracting all the keywords (like Java,inheritance etc.) from a pdf file and storing the frequency of all these keywords in a csv file.
